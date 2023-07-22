@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Vilhara Muramuali</h1>
+###Hi 👋, I'm Vilhara Muramuali
 <h3 align="center">A passionate frontend developer/Designer</h3>
 
 
