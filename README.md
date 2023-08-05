@@ -1,4 +1,4 @@
-###Hi 👋, I'm Vilhara Muramuali
+<h1 align="center">Hi 👋, I'm Vilhara Kavishka</h1>
 <h3 align="center">A passionate frontend developer/Designer</h3>
 
 
