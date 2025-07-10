@@ -235,24 +235,111 @@ J --> K[Product Design]
 
 ---
 
-## 🌟 Testimonials & Reviews
+## 📊 Skills Proficiency Chart
 
 <div align="center">
-
-> *"Vilhara's attention to detail and creative problem-solving skills make him an exceptional developer. His UI designs are both beautiful and functional."*  
-> **— Sarah Johnson, Project Manager**
-
-> *"Working with Vilhara was a fantastic experience. He delivered high-quality code and exceeded our expectations with the design."*  
-> **— Michael Chen, Startup Founder**
-
-> *"His expertise in React and modern web technologies helped us build a scalable application that our users love."*  
-> **— Emma Rodriguez, Tech Lead**
 
 </div>
 
 ---
 
-## 📊 Skills Proficiency Chart
+## 🎵 Coding Playlist & Workspace
 
 <div align="center">
+
+### 🎧 What I Listen To While Coding
+- 🎵 **Lo-fi Hip Hop** - For deep focus sessions
+- 🎵 **Synthwave** - For creative UI work
+- 🎵 **Classical** - For complex problem solving
+- 🎵 **Ambient** - For late-night coding
+
+### ⚙️ My Development Setup
+- 💻 **Laptop**: MacBook Pro M2
+- 🖥️ **Monitor**: 27" 4K Display
+- ⌨️ **Keyboard**: Mechanical RGB
+- 🖱️ **Mouse**: Wireless Gaming Mouse
+- 🎧 **Headphones**: Sony WH-1000XM4
+- ☕ **Fuel**: Ethiopian Coffee
+
+</div>
+
+---
+
+## 🌍 Open Source Contributions
+
+<div align="center">
+
+### 🤝 Contributing To
+
+[![React](https://img.shields.io/badge/React-Contributor-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/facebook/react)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-Contributor-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/twbs/bootstrap)
+[![Figma Plugins](https://img.shields.io/badge/Figma_Plugins-Creator-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+
+### 📈 Contribution Stats
+- 🔄 **Pull Requests**: 150+ merged
+- 🐛 **Issues Resolved**: 75+
+- ⭐ **Stars Earned**: 500+
+- 🍴 **Forks Created**: 200+
+
+</div>
+
+---
+
+## 💡 Fun Facts & Hobbies
+
+<div align="center">
+
+### 🎯 Random Facts About Me
+- 🌅 **Early Bird**: I code best at 5 AM with coffee
+- 🎮 **Gamer**: Love playing strategy games for problem-solving
+- 📚 **Bookworm**: Read 2+ tech books monthly
+- 🏃‍♂️ **Runner**: 5K runs help me debug complex problems
+- 🍕 **Foodie**: Pizza is my debugging fuel
+- 🎨 **Artist**: Sketch UI ideas on paper first
+- 🌱 **Plant Parent**: My desk plants keep me motivated
+
+### 🎪 When I'm Not Coding
+- 🎬 Watching tech documentaries
+- 🎨 Creating digital art
+- 📖 Reading design blogs
+- 🏊‍♂️ Swimming for mental clarity
+- 🎵 Playing guitar (badly!)
+- 🌄 Hiking for inspiration
+
+</div>
+
+---
+
+## 📞 Let's Build Something Amazing Together!
+
+<div align="center">
+  
+  ### 🚀 Ready to Collaborate?
+  
+  Whether you need a **stunning website**, **mobile app UI**, or **full-stack solution**, I'm here to help bring your ideas to life!
+  
+  [![Email Me](https://img.shields.io/badge/Email_Me-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharindumuramudali@gmail.com)
+  [![Schedule Call](https://img.shields.io/badge/Schedule_Call-Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](#)
+  [![View Portfolio](https://img.shields.io/badge/View_Portfolio-My_Work-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+  
+  ### 💼 Services I Offer:
+  - 🎨 **UI/UX Design** - Modern, user-friendly interfaces
+  - 💻 **Frontend Development** - React, Next.js, TypeScript
+  - 🔧 **Full-Stack Development** - MERN stack solutions
+  - 📱 **Responsive Design** - Mobile-first approach
+  - ⚡ **Performance Optimization** - Fast, efficient websites
+  - 🎯 **Consultation** - Technical guidance and mentoring
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💫 *"The future belongs to those who believe in the beauty of their dreams."*
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+create+something+extraordinary;Always+learning%2C+always+growing;Code+%E2%80%A2+Design+%E2%80%A2+Innovate;Connect+with+me+for+collaborations!" alt="Footer Animation" loading="lazy"/>
+  
+  <!-- Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=t
 
