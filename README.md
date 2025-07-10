@@ -227,47 +227,8 @@ J --> K[Product Design]
 
 </div>
 
----
 
-## 🎵 Coding Playlist & Workspace
 
-<div align="center">
-
-### 🎧 What I Listen To While Coding
-- 🎵 **Lo-fi Hip Hop** - For deep focus sessions
-- 🎵 **Synthwave** - For creative UI work
-- 🎵 **Classical** - For complex problem solving
-- 🎵 **Ambient** - For late-night coding
-
-### ⚙️ My Development Setup
-- 💻 **Laptop**: MacBook Pro M2
-- 🖥️ **Monitor**: 27" 4K Display
-- ⌨️ **Keyboard**: Mechanical RGB
-- 🖱️ **Mouse**: Wireless Gaming Mouse
-- 🎧 **Headphones**: Sony WH-1000XM4
-- ☕ **Fuel**: Ethiopian Coffee
-
-</div>
-
----
-
-## 🌍 Open Source Contributions
-
-<div align="center">
-
-### 🤝 Contributing To
-
-[![React](https://img.shields.io/badge/React-Contributor-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/facebook/react)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-Contributor-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/twbs/bootstrap)
-[![Figma Plugins](https://img.shields.io/badge/Figma_Plugins-Creator-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
-
-### 📈 Contribution Stats
-- 🔄 **Pull Requests**: 150+ merged
-- 🐛 **Issues Resolved**: 75+
-- ⭐ **Stars Earned**: 500+
-- 🍴 **Forks Created**: 200+
-
-</div>
 
 ---
 
@@ -327,5 +288,4 @@ J --> K[Product Design]
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+create+something+extraordinary;Always+learning%2C+always+growing;Code+%E2%80%A2+Design+%E2%80%A2+Innovate;Connect+with+me+for+collaborations!" alt="Footer Animation" loading="lazy"/>
   
   <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=t
-
+  
