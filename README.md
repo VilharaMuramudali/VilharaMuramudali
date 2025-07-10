@@ -110,21 +110,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vilharamuramudali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" loading="lazy"/>
 </div>
 
----
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🚀 Recent Work
-
-[![E-Commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=vilharamuramudali&repo=ecommerce-mern&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vilharamuramudali/ecommerce-mern)
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=vilharamuramudali&repo=portfolio-react&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vilharamuramudali/portfolio-react)
-
-[![Task Management App](https://github-readme-stats.vercel.app/api/pin/?username=vilharamuramudali&repo=task-manager&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vilharamuramudali/task-manager)
-[![Weather Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=vilharamuramudali&repo=weather-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vilharamuramudali/weather-dashboard)
-
-</div>
 
 ---
 
