@@ -128,14 +128,6 @@
   
 </div>
 
----
-
-## 💻 Development Philosophy & Code
-
-<div align="center">
-  
-  
-</div>
 
 ---
 
@@ -216,42 +208,6 @@ J --> K[Product Design]
 - 🥇 **Meta Front-End Developer Certificate**
 - 🥇 **Google UX Design Certificate**
 - 🥇 **MongoDB Developer Certification**
-
-</div>
-
----
-
-## 📊 Skills Proficiency Chart
-
-<div align="center">
-
-</div>
-
-
-
-
----
-
-## 💡 Fun Facts & Hobbies
-
-<div align="center">
-
-### 🎯 Random Facts About Me
-- 🌅 **Early Bird**: I code best at 5 AM with coffee
-- 🎮 **Gamer**: Love playing strategy games for problem-solving
-- 📚 **Bookworm**: Read 2+ tech books monthly
-- 🏃‍♂️ **Runner**: 5K runs help me debug complex problems
-- 🍕 **Foodie**: Pizza is my debugging fuel
-- 🎨 **Artist**: Sketch UI ideas on paper first
-- 🌱 **Plant Parent**: My desk plants keep me motivated
-
-### 🎪 When I'm Not Coding
-- 🎬 Watching tech documentaries
-- 🎨 Creating digital art
-- 📖 Reading design blogs
-- 🏊‍♂️ Swimming for mental clarity
-- 🎵 Playing guitar (badly!)
-- 🌄 Hiking for inspiration
 
 </div>
 
